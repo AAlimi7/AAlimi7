@@ -56,5 +56,7 @@ I'm a Full-Stack Web Developer 💻
  </p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizalimi7&show_icons=true&theme=prussian)
+
 
 
