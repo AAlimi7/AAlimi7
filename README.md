@@ -38,8 +38,18 @@ I'm a Full-Stack Web Developer 💻
  </td>
   </tbody>
  </table>
-<br>
- <br>
+ <h2 align='center'>Projects</h2>
+ 
+
+| Name                             | Description                                            | Tech/tools        |
+| -------------------------------- | ------------------------------------------------------ | ----------------- |
+| [**Acebook**](https://github.com/fridayshoes/acebook-node-priceless)| Week 8-9 Makers group project - Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
+| [**News App (API)**](https://github.com/Hafizalimi7/news-summary-challenge)| Week 7 Makers solo project - Creating a front end app that connects to the Guardian news API.  | JavaScript, Express, Jest |
+| [**MakersBnB**](https://github.com/fridayshoes/makers_bnb)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Chitter**](https://github.com/Hafizalimi7/chitter-challenge)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Rock Paper Scissors**](https://github.com/Hafizalimi7/rps-challenge)| Week 3 Makers solo weekend project - single and multi player RPS web app | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
+
+
 <h2 align='center'>Let's Connect!</h2>
  <p align='center'>
         <a href='https://www.linkedin.com/in/hafiz-alimi-7148951a9/'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/LinkedIn.svg' width='5%'>   
