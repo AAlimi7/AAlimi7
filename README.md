@@ -54,7 +54,8 @@ I'm a Full-Stack Web Developer 💻
  <p align='center'>
         <a href='https://www.linkedin.com/in/hafiz-alimi-7148951a9/'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/LinkedIn.svg' width='5%'>   
  </p>
-
+<br>
+        </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizalimi7&show_icons=true&theme=prussian)
 
