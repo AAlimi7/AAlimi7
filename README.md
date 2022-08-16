@@ -51,6 +51,30 @@ I'm a Full-Stack Web Developer 💻
 | [**Rock Paper Scissors**](https://github.com/Hafizalimi7/rps-challenge)| Week 3 Makers solo weekend project - single and multi player RPS web app | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
 
 
+## Skills
+
+***Team-player***<br>
+Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises. I genuinely enjoy working with others; camaraderie and support are always great motivators for creating high-quality projects. The Makers course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively. 
+
+This came into play during our [Makers Final Project](https://github.com/Hafizalimi7/beach-life), where I encouraged other quieter members to offer their thoughts and present my own. I also solidified my skills by either providing leadership or encouraging and supporting others who lead, depending on the team's needs.
+
+My previous experience working within a tech team has been beneficial, too; it was imperative that I could mediate between our team members to communicate all requests and technical issues.
+
+***Creative***<br>
+My creative side mostly stems from my footballer background as an ex-footballer creativilty requires players to know themselves, work with each other, and understand the very best ways in which they can combine. Practising therefore has to include the development of skill, spatial awareness and an awareness of how individuals themselves and others play. I've learn't how to implement these skills into Software Developemt. These skills has also allowed me to make or edit assets if needed, understand copyright, and design stylish modern web apps. 
+
+***Self-motivated***<br>
+Now that I am developing and maintaining software, my enthusiasm is boundless. I am eager to learn as much as possible and continue improving as a developer. I am excited to work on new challenges, gain new knowledge and use my existing skills to enhance my future projects.
+
+I am continuing my personal development through the [Odin Project](https://www.theodinproject.com/), and I plan to use React JS to build a new art portfolio. I love that there is always something to learn within the software industry, as long as you have the motivation to do so.
+
+
+***Enthusiastic***<br>
+I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
+
+***Adaptable***<br>
+Able to take on new technologies and learn new practices rapidly and efficiently. New environments, new languages, new teams, new challenges.
+
 <h2 align='center'>Let's Connect!</h2>
  <p align='center'>
         <a href='https://www.linkedin.com/in/hafiz-alimi-7148951a9/'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/LinkedIn.svg' width='5%'>   
