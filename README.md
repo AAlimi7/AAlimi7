@@ -43,10 +43,10 @@ I'm a Full-Stack Web Developer 💻
 
 | Name                             | Description                                            | Tech/tools        |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
-| **[Beach Life](https://github.com/jmcg015/beach-life)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
-| [**Acebook**](https://github.com/fridayshoes/acebook-node-priceless)| Week 8-9 Makers group project - Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
+| **[Beach Life](https://github.com/Hafizalimi7/beach-life)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
+| [**Acebook**](https://github.com/Hafizalimi7/acebook-node-priceless)| Week 8-9 Makers group project - Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
 | [**News App (API)**](https://github.com/Hafizalimi7/news-summary-challenge)| Week 7 Makers solo project - Creating a front end app that connects to the Guardian news API.  | JavaScript, Express, Jest |
-| [**MakersBnB**](https://github.com/fridayshoes/makers_bnb)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**MakersBnB**](https://github.com/Hafizalimi7/makers_bnb)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
 | [**Chitter**](https://github.com/Hafizalimi7/chitter-challenge)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
 | [**Rock Paper Scissors**](https://github.com/Hafizalimi7/rps-challenge)| Week 3 Makers solo weekend project - single and multi player RPS web app | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
 
