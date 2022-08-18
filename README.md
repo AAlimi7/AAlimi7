@@ -48,7 +48,7 @@ Between leaving my job and now, I've spent a gap year travelling independently a
  
 
 | Name                             | Description                                            |Live Links| Tech/tools        |
-| -------------------------------- | ------------------------------------------------------ | --------- |----------------- |
+| -------------------------------- | -------------------------------------------| --------- |---------------- |
 | **[Beach Life](https://github.com/Hafizalimi7/beach-life#readme)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | https://github.com/Hafizalimi7/beach-life |MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
 | [**Acebook**]( https://github.com/Hafizalimi7/acebook-node-priceless#readme)| Week 8-9 Makers group project - Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | https://github.com/Hafizalimi7/acebook-node-priceless |Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
 | [**News App (API)**]( https://github.com/Hafizalimi7/news-summary-challenge#readme)| Week 7 Makers solo project - Creating a front end app that connects to the Guardian news API.  | https://github.com/Hafizalimi7/news-summary-challenge | JavaScript, Express, Jest |
