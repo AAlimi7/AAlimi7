@@ -1,12 +1,18 @@
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
+
 # <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88586488/182867710-f2973046-ed5c-403f-9c4e-95b5fa9c1205.png" alt="my banner"></a>
 </p>
 <h3 align="center">
-Hi there, I'm Hafiz🦾 
+
+Coding during the day, Chief during the evening👨🏾‍🍳 
 </h3>
 
+#### About Me
 <h4 align="center">
-I'm a Full-Stack Web Developer 💻 
+I am an energetic and ambitious Full Stack Developer💻 , day by day as I'm practicing I'm getting better and falling in love with coding. And although I may not know everything , I love the fact everyday is a new challenge and the whole process is a learning process.😆
+
+Between leaving my job and now, I've spent a gap year travelling independently around every corner of the globe. Just me, myself and my laptop!
  </h4>
 
 <h2 align='center'>Technologies</h2>
@@ -67,13 +73,8 @@ My creative side mostly stems from my footballer background as an ex-footballer 
 Now that I am developing and maintaining software, my enthusiasm is boundless. I am eager to learn as much as possible and continue improving as a developer. I am excited to work on new challenges, gain new knowledge and use my existing skills to enhance my future projects.
 
 I am continuing my personal development through the [Odin Project](https://www.theodinproject.com/), and I plan to use React JS to build a new art portfolio. I love that there is always something to learn within the software industry, as long as you have the motivation to do so.
-
-
-***Enthusiastic***<br>
 I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
 
-***Adaptable***<br>
-Able to take on new technologies and learn new practices rapidly and efficiently. New environments, new languages, new teams, new challenges.
 
 ## Education
 
@@ -92,10 +93,10 @@ _**Makers Academy** - Sep 2021 - Jan 2022_
 </br>**Ji Jitsu** - I'm lucky enough to live between three massive Ji Jitsu centers in East London, so Jiu Jitsu has always been apart of my childhood growing up it has taught me to persevere myself when I face challenges and to stay committed to my goals even when feeling discouraged. There have been so many times in my life that I wanted to quit, without BJJ I would have. The truth is, BJJ has made me stronger physically and mentally.🤼‍♂️
 </br>**Cooking** - My favourite thing to do is cook the ability to be creative, and the sense of satisfaction knowing you can provide for yourself. The joy when your family tries a new dish you cook and they enjoy it.👨🏾‍🍳
 
-<h2 align='center'>Let's Connect!</h2>
- <p align='center'>
-        <a href='https://www.linkedin.com/in/hafiz-alimi-7148951a9/'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/LinkedIn.svg' width='5%'>   
- </p>
+## Contact
+
+<a href='https://www.linkedin.com/in/hafiz-alimi-7148951a9/'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/LinkedIn.svg' width='5%'>   
+
 <br>
         </br>
 
