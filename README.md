@@ -41,14 +41,14 @@ I'm a Full-Stack Web Developer 💻
  <h2 align='center'>Projects</h2>
  
 
-| Name                             | Description                                            | Tech/tools        |
-| -------------------------------- | ------------------------------------------------------ | ----------------- |
-| **[Beach Life](https://github.com/Hafizalimi7/beach-life)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
-| [**Acebook**](https://github.com/Hafizalimi7/acebook-node-priceless)| Week 8-9 Makers group project - Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
-| [**News App (API)**](https://github.com/Hafizalimi7/news-summary-challenge)| Week 7 Makers solo project - Creating a front end app that connects to the Guardian news API.  | JavaScript, Express, Jest |
-| [**MakersBnB**](https://github.com/Hafizalimi7/makers_bnb)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
-| [**Chitter**](https://github.com/Hafizalimi7/chitter-challenge)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
-| [**Rock Paper Scissors**](https://github.com/Hafizalimi7/rps-challenge)| Week 3 Makers solo weekend project - single and multi player RPS web app | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
+| Name                             | Description                                            |Live Links| Tech/tools        |
+| -------------------------------- | ------------------------------------------------------ | --------- |----------------- |
+| **[Beach Life](https://github.com/Hafizalimi7/beach-life#readme)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | https://github.com/Hafizalimi7/beach-life |MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
+| [**Acebook**]( https://github.com/Hafizalimi7/acebook-node-priceless#readme)| Week 8-9 Makers group project - Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | https://github.com/Hafizalimi7/acebook-node-priceless |Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
+| [**News App (API)**]( https://github.com/Hafizalimi7/news-summary-challenge#readme)| Week 7 Makers solo project - Creating a front end app that connects to the Guardian news API.  | https://github.com/Hafizalimi7/news-summary-challenge | JavaScript, Express, Jest |
+| [**MakersBnB**](https://github.com/Hafizalimi7/makers_bnb#readme)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. (WIP) |https://github.com/Hafizalimi7/makers_bnb| Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Chitter**](https://github.com/Hafizalimi7/chitter-challenge#readme)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | https://github.com/Hafizalimi7/chitter-challenge | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Rock Paper Scissors**]( https://github.com/Hafizalimi7/rps-challenge#readme)| Week 3 Makers solo weekend project - single and multi player RPS web app| https://github.com/Hafizalimi7/rps-challenge | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
 
 
 ## Skills
@@ -74,6 +74,23 @@ I am highly motivated, and unafraid of challenge. I do not shy away from difficu
 
 ***Adaptable***<br>
 Able to take on new technologies and learn new practices rapidly and efficiently. New environments, new languages, new teams, new challenges.
+
+## Education
+
+_**Makers Academy** - Sep 2021 - Jan 2022_
+</br>A highly selective 4-month software engineering bootcamp:
+
+- Emphasis on Test-driven development (TDD), pair-programming and agile workflows, as well as emotional intelligence and XP values
+- Focus on becoming "language agnostic" and able to adapt to new languages with ease
+- Encouraged independant learning and problem-solving
+- Specifically taught Ruby (with Rspec) and JavaScript (with Jest)
+- Full stack web development, including web frameworks like Ruby on Rails and ReactJs
+
+## Hobbies
+
+**Football** - Football often acts an escape from my normal life. I may have had a hard week and so the entire week I look forward to that one weekend game. For those 90 minutes, I forget about all my problems and focus on our team's problems. A goal scored by our team brings me and my team joy and a goal conceded makes life harder, but the togetherness and fun makes it all even better ❤️
+</br>**Ji Jitsu** - I'm lucky enough to live between three massive Ji Jitsu centers in East London, so Jiu Jitsu has always been apart of my childhood growing up it has taught me to persevere myself when I face challenges and to stay committed to my goals even when feeling discouraged. There have been so many times in my life that I wanted to quit, without BJJ I would have. The truth is, BJJ has made me stronger physically and mentally.🤼‍♂️
+</br>**Cooking** - My favourite thing to do is cook the ability to be creative, and the sense of satisfaction knowing you can provide for yourself. The joy when your family tries a new dish you cook and they enjoy it.👨🏾‍🍳
 
 <h2 align='center'>Let's Connect!</h2>
  <p align='center'>
