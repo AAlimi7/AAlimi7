@@ -1,7 +1,7 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
 # <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88586488/182867710-f2973046-ed5c-403f-9c4e-95b5fa9c1205.png" alt="my banner"></a>
+   <img src="https://user-images.githubusercontent.com/88586488/182867710-f2973046-ed5c-403f-9c4e-95b5fa9c1205.png" width="90%" alt="my banner">
 </p>
 <h3 align="center">
 
