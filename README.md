@@ -99,6 +99,8 @@ _**Makers Academy** - Sep 2021 - Jan 2022_
 
 <br>
         </br>
+        
+<h2>See my <a href="https://github.com/Hafizalimi7/Hafizalimi7" >Github CV</a></h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizalimi7&show_icons=true&theme=prussian)
 
