@@ -1,13 +1,19 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
+# <p align="center">
+   <img src="https://user-images.githubusercontent.com/88586488/189655442-643f59f2-c94d-42e7-8a01-6536bd0364d5.png" width="20%" alt="my banner">
+</p>
+
+
 
 <h3 align="center">
+
 
 Coding during the day, Chef during the evening👨🏾‍🍳 
 </h3>
 
 #### About Me
 <h4 align="center">
-I am an energetic and ambitious Full Stack Developer💻 , day by day as I'm practicing I'm getting better and falling in love with coding. And although I may not know everything , I love the fact everyday is a new challenge and the whole process is a learning process.😆
+I am an energetic and ambitious Full Stack Developer , day by day as I'm practicing I'm getting better and falling in love with coding. And although I may not know everything , I love the fact everyday is a new challenge and the whole process is a learning process.
 
 Between leaving my job and now, I've spent a gap year travelling independently around every corner of the globe. Just me, myself and my laptop!
  </h4>
