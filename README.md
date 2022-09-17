@@ -92,9 +92,8 @@ _**Makers Academy** - Sep 2021 - Jan 2022_
 
 ## Hobbies
 
-**Football** - Football often acts an escape from my normal life. I may have had a hard week and so the entire week I look forward to that one weekend game. For those 90 minutes, I forget about all my problems and focus on our team's problems. A goal scored by our team brings me and my team joy and a goal conceded makes life harder, but the togetherness and fun makes it all even better ❤️
-</br>**Ji Jitsu** - I'm lucky enough to live between three massive Ji Jitsu centers in East London, so Jiu Jitsu has always been apart of my childhood growing up it has taught me to persevere myself when I face challenges and to stay committed to my goals even when feeling discouraged. There have been so many times in my life that I wanted to quit, without BJJ I would have. The truth is, BJJ has made me stronger physically and mentally.🤼‍♂️
-</br>**Cooking** - My favourite thing to do is cook the ability to be creative, and the sense of satisfaction knowing you can provide for yourself. The joy when your family tries a new dish you cook and they enjoy it.👨🏾‍🍳
+**Ji Jitsu** - I'm lucky enough to live between three massive Ji Jitsu centers in East London, so Jiu Jitsu has always been apart of my childhood growing up it has taught me to persevere myself when I face challenges and to stay committed to my goals even when feeling discouraged. There have been so many times in my life that I wanted to quit, without BJJ I would have. The truth is, BJJ has made me stronger physically and mentally.
+</br>**Cooking** - My favourite thing to do is cook the ability to be creative, and the sense of satisfaction knowing you can provide for yourself. The joy when your family tries a new dish you cook and they enjoy it.
 
 ## Contact
 
