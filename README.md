@@ -52,12 +52,13 @@ Between leaving my job and now, I've spent a gap year travelling independently a
 
 | Name                             | Description                                            |Live Links| Tech/tools        |
 | -------------------------------- | -------------------------------------------| --------- |---------------- |
-| **[Beach Life](https://github.com/Hafizalimi7/beach-life#readme)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | https://github.com/Hafizalimi7/beach-life |MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
-| [**Acebook**]( https://github.com/Hafizalimi7/acebook-node-priceless#readme)| Week 8-9 Makers group project - Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | https://github.com/Hafizalimi7/acebook-node-priceless |Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
-| [**News App (API)**]( https://github.com/Hafizalimi7/news-summary-challenge#readme)| Week 7 Makers solo project - Creating a front end app that connects to the Guardian news API.  | https://github.com/Hafizalimi7/news-summary-challenge | JavaScript, Express, Jest |
+| **[Spotlas App](https://github.com/Hafizalimi7/SpotlasApp#readme)** | A ios mobile app that you could save your favourite food spot and browse home feed| https://github.com/Hafizalimi7/SpotlasApp |Dart, Ruby, Html, C, C++ , CMake|
+| **[Beach Life](https://github.com/Hafizalimi7/beach-life#readme)** | A web application that helps users locate their nearest beach in England and provides weather and tide information | https://github.com/Hafizalimi7/beach-life |MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
+| [**Acebook**]( https://github.com/Hafizalimi7/acebook-node-priceless#readme)| Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | https://github.com/Hafizalimi7/acebook-node-priceless |Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
+| [**News App (API)**]( https://github.com/Hafizalimi7/news-summary-challenge#readme)| Creating a front end app that connects to the Guardian news API.  | https://github.com/Hafizalimi7/news-summary-challenge | JavaScript, Express, Jest |
 | [**MakersBnB**](https://github.com/Hafizalimi7/makers_bnb#readme)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. (WIP) |https://github.com/Hafizalimi7/makers_bnb| Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
-| [**Chitter**](https://github.com/Hafizalimi7/chitter-challenge#readme)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | https://github.com/Hafizalimi7/chitter-challenge | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
-| [**Rock Paper Scissors**]( https://github.com/Hafizalimi7/rps-challenge#readme)| Week 3 Makers solo weekend project - single and multi player RPS web app| https://github.com/Hafizalimi7/rps-challenge | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
+| [**Chitter**](https://github.com/Hafizalimi7/chitter-challenge#readme)| (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | https://github.com/Hafizalimi7/chitter-challenge | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Rock Paper Scissors**]( https://github.com/Hafizalimi7/rps-challenge#readme)| single and multi player RPS web app| https://github.com/Hafizalimi7/rps-challenge | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
 
 
 ## Skills
