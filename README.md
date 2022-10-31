@@ -52,6 +52,13 @@ Between leaving my job and now, I’ve spent a gap year traveling independently 
 | Name                             | Description                                            |Live Links| Tech/tools        |
 | -------------------------------- | -------------------------------------------| --------- |---------------- |
 | **[Spotlas App](https://github.com/Hafizalimi7/SpotlasApp#readme)** | A ios mobile app that you could save your favourite food spot and browse home feed| https://github.com/Hafizalimi7/SpotlasApp |Dart, Ruby, Html, C, C++ , CMake|
+| [**Counter App**](https://github.com/Hafizalimi7/Counter#readme)| This is a basic Counter exercise project using React framework. Using the TDD approach from start till the end. | https://github.com/Hafizalimi7/Counter |React, Javascrpit, React Testing Library |
+| [**Movie Review**]( https://github.com/Hafizalimi7/Movie-Review#readme)|Random quotes project | https://github.com/Hafizalimi7/Movie-Review | ReactJS, NodeJS, Express, and MySQL |
+| [**Portfoilio**](https://github.com/Hafizalimi7/Portfolio#readme)| Portfolio |https://github.com/Hafizalimi7/Portfolio| JavaScript, React, Node |
+| [**Chitter**](https://github.com/Hafizalimi7/chitter-challenge#readme)| (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | https://github.com/Hafizalimi7/chitter-challenge | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**To-do List**](https://github.com/Hafizalimi7/React-TL#readme)| To-do App| https://github.com/Hafizalimi7/React-TL |JavaScript, React |
+| [**Rock Paper Scissors**]( https://github.com/Hafizalimi7/rps-challenge#readme)| single and multi player RPS web app| https://github.com/Hafizalimi7/rps-challenge | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
+| [**News App (API)**]( https://github.com/Hafizalimi7/news-summary-challenge#readme)| Creating a front end app that connects to the Guardian news API.  | https://github.com/Hafizalimi7/news-summary-challenge | JavaScript, Express, Jest |
 
  <h3 align='center'> Group Projects</h3>
  
@@ -60,10 +67,8 @@ Between leaving my job and now, I’ve spent a gap year traveling independently 
 | -------------------------------- | -------------------------------------------| --------- |---------------- |
 | **[Beach Life](https://github.com/Hafizalimi7/beach-life#readme)** | A web application that helps users locate their nearest beach in England and provides weather and tide information | https://github.com/Hafizalimi7/beach-life |MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
 | [**Acebook**]( https://github.com/Hafizalimi7/acebook-node-priceless#readme)| Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | https://github.com/Hafizalimi7/acebook-node-priceless |Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
-| [**News App (API)**]( https://github.com/Hafizalimi7/news-summary-challenge#readme)| Creating a front end app that connects to the Guardian news API.  | https://github.com/Hafizalimi7/news-summary-challenge | JavaScript, Express, Jest |
 | [**MakersBnB**](https://github.com/Hafizalimi7/makers_bnb#readme)| (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. (WIP) |https://github.com/Hafizalimi7/makers_bnb| Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
-| [**Chitter**](https://github.com/Hafizalimi7/chitter-challenge#readme)| (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | https://github.com/Hafizalimi7/chitter-challenge | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
-| [**Rock Paper Scissors**]( https://github.com/Hafizalimi7/rps-challenge#readme)| single and multi player RPS web app| https://github.com/Hafizalimi7/rps-challenge | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
+
 
 
 ## Skills
