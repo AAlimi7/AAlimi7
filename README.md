@@ -46,12 +46,18 @@ Between leaving my job and now, I’ve spent a gap year traveling independently 
  </td>
   </tbody>
  </table>
- <h2 align='center'>Projects</h2>
+  <h2 align='center'> Personal Projects</h2>
  
 
 | Name                             | Description                                            |Live Links| Tech/tools        |
 | -------------------------------- | -------------------------------------------| --------- |---------------- |
 | **[Spotlas App](https://github.com/Hafizalimi7/SpotlasApp#readme)** | A ios mobile app that you could save your favourite food spot and browse home feed| https://github.com/Hafizalimi7/SpotlasApp |Dart, Ruby, Html, C, C++ , CMake|
+
+ <h3 align='center'> Group Projects</h3>
+ 
+
+| Name                             | Description                                            |Live Links| Tech/tools        |
+| -------------------------------- | -------------------------------------------| --------- |---------------- |
 | **[Beach Life](https://github.com/Hafizalimi7/beach-life#readme)** | A web application that helps users locate their nearest beach in England and provides weather and tide information | https://github.com/Hafizalimi7/beach-life |MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
 | [**Acebook**]( https://github.com/Hafizalimi7/acebook-node-priceless#readme)| Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | https://github.com/Hafizalimi7/acebook-node-priceless |Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
 | [**News App (API)**]( https://github.com/Hafizalimi7/news-summary-challenge#readme)| Creating a front end app that connects to the Guardian news API.  | https://github.com/Hafizalimi7/news-summary-challenge | JavaScript, Express, Jest |
