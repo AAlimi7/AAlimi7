@@ -11,7 +11,7 @@
 Coding during the day, Chef during the evening👨🏾‍🍳 
 </h3>
 
-#### About Me
+#### About Meb 
 <h4 align="center">
 I am an energetic and ambitious Full Stack Developer, day by day as I’m practicing I’m getting better and falling in love with coding. And although I may not know everything, I love the fact every day is a new challenge and the whole process is a learning process.
 Between leaving my job and now, I’ve spent a gap year traveling independently around every corner of the globe. Just me, myself, and my laptop!
