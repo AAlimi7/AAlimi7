@@ -51,10 +51,10 @@ Between leaving my job and now, I’ve spent a gap year traveling independently 
 
 | Name                             | Description                                            |Live Links| Tech/tools        |
 | -------------------------------- | -------------------------------------------| --------- |---------------- |
+| [**Portfolio**](https://github.com/Hafizalimi7/Portfolio#readme)| Portfolio |https://github.com/Hafizalimi7/Portfolio| JavaScript, React, Node, Netify |
 | **[Spotlas App](https://github.com/Hafizalimi7/SpotlasApp#readme)** | A ios mobile app that you could save your favourite food spot and browse home feed| https://github.com/Hafizalimi7/SpotlasApp |Dart, Ruby, Html, C, C++ , CMake|
 | [**Counter App**](https://github.com/Hafizalimi7/Counter#readme)| This is a basic Counter exercise project using React framework. Using the TDD approach from start till the end. | https://github.com/Hafizalimi7/Counter |React, Javascrpit, React Testing Library |
 | [**Movie Review**]( https://github.com/Hafizalimi7/Movie-Review#readme)|Random quotes project | https://github.com/Hafizalimi7/Movie-Review | ReactJS, NodeJS, Express, and MySQL |
-| [**Portfoilio**](https://github.com/Hafizalimi7/Portfolio#readme)| Portfolio |https://github.com/Hafizalimi7/Portfolio| JavaScript, React, Node |
 | [**Chitter**](https://github.com/Hafizalimi7/chitter-challenge#readme)| (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | https://github.com/Hafizalimi7/chitter-challenge | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
 | [**To-do List**](https://github.com/Hafizalimi7/React-TL#readme)| To-do App| https://github.com/Hafizalimi7/React-TL |JavaScript, React |
 | [**Rock Paper Scissors**]( https://github.com/Hafizalimi7/rps-challenge#readme)| single and multi player RPS web app| https://github.com/Hafizalimi7/rps-challenge | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
