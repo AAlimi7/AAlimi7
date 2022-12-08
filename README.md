@@ -71,7 +71,7 @@ I am an energetic and ambitious Full Stack Developer, day by day as I’m practi
 
 
 
-## Skills
+## Skills  
 
 ***Team-player***<br>
 Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises. I genuinely enjoy working with others; camaraderie and support are always great motivators for creating high-quality projects. The Makers course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively. 
