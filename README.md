@@ -93,7 +93,7 @@ I am highly motivated, and unafraid of challenge. I do not shy away from difficu
 ## Education
 
 _**Makers Academy** - Sep 2021 - Jan 2022_
-</br>A highly selective 4-month software engineering bootcamp:
+</br>A highly selective 4-month software engineering bootcamp: 
 
 - Emphasis on Test-driven development (TDD), pair-programming and agile workflows, as well as emotional intelligence and XP values
 - Focus on becoming "language agnostic" and able to adapt to new languages with ease
