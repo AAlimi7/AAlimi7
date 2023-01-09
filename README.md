@@ -16,7 +16,7 @@ Coding during the day, Chef during the evening👨🏾‍🍳
 I am an energetic and ambitious Full Stack Developer, day by day as I’m practicing I’m getting better and falling in love with coding. And although I may not know everything, I love the fact every day is a new challenge and the whole process is a learning process.
  </h4>
 
-<h2 align='center'>Technologies</h2> 
+<h2 align='center'>Technologies</h2>  
 <table>
   <tbody>
     <td valign='top' width='33.33%>
