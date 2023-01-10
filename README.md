@@ -8,7 +8,7 @@
 <h3 align="center">         
 
 
-Coding during the day, Chef during the evening👨🏾‍🍳 
+Coding during the day, Chef during the evening👨🏾‍🍳  
 </h3> 
 
 #### About Me
