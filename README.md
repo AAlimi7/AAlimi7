@@ -50,7 +50,7 @@ I am an energetic and ambitious Full Stack Developer, day by day as I’m practi
 
 | Name                             | Description                                            |Live Links| Tech/tools        |
 | -------------------------------- | -------------------------------------------| --------- |---------------- |
-| [**Online Shop(Pending)**](https://github.com/Hafizalimi7/Online-Shop#readme)| E-Commerce |https://github.com/Hafizalimi7/Online-Shop | React, Redux Toolkit, Node, Express, MongoDB, JWT|
+| [**Online Shop**](https://github.com/Hafizalimi7/Online-Shop#readme)| E-Commerce |https://github.com/Hafizalimi7/Online-Shop | React, Redux Toolkit, Node, Express, MongoDB, JWT|
 | [**Portfolio**](https://github.com/Hafizalimi7/Portfolio#readme)| A space to showcase all my projects |https://github.com/Hafizalimi7/Portfolio| JavaScript, React, Node, Netify |
 | [**Covid-19 Tracker**](https://github.com/Hafizalimi7/Covid19-Tracker#readme)| Shows live covid-19 stats from around the world| https://github.com/Hafizalimi7/Covid19-Tracker| JavaScript, React, firebase |
 | **[Spotlas App](https://github.com/Hafizalimi7/SpotlasApp#readme)** | Ios mobile app that you could save your favourite food spot and browse home feed| https://github.com/Hafizalimi7/SpotlasApp |Dart, Ruby, Html, C, C++ , CMake|
