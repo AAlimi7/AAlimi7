@@ -88,17 +88,6 @@ I am continuing my personal development through the [Odin Project](https://www.t
 I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
 
 
-## Education
-
-_**Makers Academy** - Sep 2021 - Jan 2022_
-</br>A highly selective 4-month software engineering bootcamp: 
-
-- Emphasis on Test-driven development (TDD), pair-programming and agile workflows, as well as emotional intelligence and XP values
-- Focus on becoming "language agnostic" and able to adapt to new languages with ease
-- Encouraged independant learning and problem-solving
-- Specifically taught Ruby (with Rspec) and JavaScript (with Jest)
-- Full stack web development, including web frameworks like Ruby on Rails and ReactJs
-
 ## Hobbies
 
 **Ji Jitsu** - I'm lucky enough to live between three massive Ji Jitsu centers in East London, so Jiu Jitsu has always been apart of my childhood growing up it has taught me to persevere myself when I face challenges and to stay committed to my goals even when feeling discouraged. There have been so many times in my life that I wanted to quit, without BJJ I would have. The truth is, BJJ has made me stronger physically and mentally.
