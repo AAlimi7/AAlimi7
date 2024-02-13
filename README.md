@@ -46,6 +46,8 @@ Coding during the day, Chef during the evening
 | -------------------------------- | -------------------------------------------| --------- |---------------- |
 |[**TodoList**](https://github.com/Hafizalimi7/Djang_todo#readme)|Todo List |https://github.com/Hafizalimi7/Djang_todo | Python, Django, Html|
 |[**LloydsBank**](https://github.com/Hafizalimi7/LloydsBank#readme)|Lloyds Bank|https://github.com/Hafizalimi7/LloydsBank | Python|
+|[**Django Email**](https://github.com/Hafizalimi7/Django-Email#readme)|Django Email|https://github.com/Hafizalimi7/Django-Email | Python, Django, sqlite3|
+
 | [**Cosby**](https://github.com/Hafizalimi7/Cosby#readme)| E-Commerce |https://github.com/Hafizalimi7/Cosby | React, Redux Toolkit, Node, Express, MongoDB, JWT|
 | [**Portfolio**](https://github.com/Hafizalimi7/Portfolio#readme)| A space to showcase all my projects |https://github.com/Hafizalimi7/Portfolio| JavaScript, React, Node, Netify |
 | [**Covid-19 Tracker**](https://github.com/Hafizalimi7/Covid19-Tracker#readme)| Shows live covid-19 stats from around the world| https://github.com/Hafizalimi7/Covid19-Tracker| JavaScript, React, firebase |
